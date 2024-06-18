@@ -24,6 +24,9 @@ My research focuses on machine learning security and data privacy.
 - PWSCUP2023 総合2位. [[code]](https://github.com/fseclab-osaka/pwscup2023-public)
 - DICOMO2023 優秀論文賞 / 優秀プレゼンテーション賞.
 
+# CTF
+- SECCON Beginners CTF 2024 39th/962 teams (ONsen)
+
 # Certification
 **12/2021**: 情報処理安全確保支援士.  
 **06/2021**: 応用情報技術者.  
